@@ -1,0 +1,19 @@
+{
+    "mcpServers": {
+      "Twitter Marketing MCP": {
+        "command": "uv",
+        "args": [
+          "run",
+          "--with",
+          "google-genai",
+          "--with",
+          "mcp[cli]",
+          "--with",
+          "tweepy",
+          "mcp",
+          "run",
+          "D:\\MCPServers\\twitter-mcp\\Twitter-Marketing-MCP"
+        ]
+      }
+    }
+  }
